@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AndrsGarcia
+- 👀 I’m interested in learning, practicing and collaborating in beginner data science projects
+- 📫 You can reach me via email at ganddata@gmail.com 
